@@ -1,0 +1,14 @@
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/s-m-enamul-apan-775ba3162/"
+
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/apan007"
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/SEnamul"
